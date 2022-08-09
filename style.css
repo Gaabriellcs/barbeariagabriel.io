@@ -24,8 +24,10 @@ html{
 .descricao p{
     text-align: center;
     font-size: 22px;
-    color: #ffffffff;  
-    margin-top: 328px; 
+    color: #ffffffff;
+    width: 100%;
+    position: absolute;
+    top: 34%;
 }
 .chapel{
     text-align: center;
